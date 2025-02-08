@@ -4,11 +4,14 @@
 <strong>Потребление схемы до 1.5W (250mAh/5V)</strong>
 <br>
 1.	Raspberry Pi Pico
+
 2.	RX5808
+
 3.	TA8804
+
 4.	MT3608
 
- 5.SSD1306
+5.SSD1306
 
 <br>
 При виявленні помилок, або пропозицій прошу писати в <a href="https://t.me/ed_ryb1">особисті</a><br>
